@@ -1,6 +1,4 @@
-<video controls width="700">
-  <source src="my-cheatengine-how-to-download.mp4" type="video/mp4">
-</video>
+▶ Watch Video: my-cheatengine-how-to-download.mp4
 # cheatengine-x64
 
 Modern, minimal GitHub Pages download guide for the Windows x64 release flow.
@@ -32,4 +30,3 @@ This project is a lightweight static website built with plain HTML, CSS, and Jav
 ## Notes
 
 - Only GitHub Releases download method
-- Windows x32 coming soon
