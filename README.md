@@ -1,5 +1,5 @@
 [- Watch Video](easy-download.mp4)
-# cheatengine-x64
+# cheatengine-x64-x32
 
 Modern, minimal GitHub Pages download guide for the Windows x64 release flow.
 
