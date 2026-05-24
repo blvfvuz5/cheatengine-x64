@@ -21,7 +21,7 @@ This project is a lightweight static website built with plain HTML, CSS, and Jav
 1. Open the GitHub repository
 2. Go to the Releases section
 3. Select the latest version
-4. Download the `.exe` file
+4. Download the `.exe` file and the `.dll` file
 
 ## GitHub Pages
 
